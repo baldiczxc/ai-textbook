@@ -1,3 +1,12 @@
+# Курс "Искусственный Интеллект для школьников"
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-green?logo=scikit-learn)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12%2B-FF6F00?logo=tensorflow)](https://tensorflow.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.7%2B-%23white?logo=opencv)](https://opencv.org/)
+
+Этот репозиторий содержит полный курс практических занятий и учебных материалов по основам Искусственного Интеллекта и Машинного Обучения, адаптированный для школьников. Все материалы выполнены в формате Jupyter Notebook.
 
 ## 📚 Материалы курса
 
